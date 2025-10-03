@@ -8,13 +8,10 @@
 
   ---
 
+<img src="imagens/DER.png" alt="Trilho e casa" width="300"/> <br>
+<img src="imagens/MER.png" alt="Trilho e casa" width="300"/> <br>
+<img src="imagens/dicionario.png" alt="Trilho e casa" width="300"/>
 
-
----
-
-⬜🟧 Na primeira imagem foi feita a mesclagem com o fundo na cor light e as letras na cor primário ⬜🟧<br>
-<br>🟧⬜ Na segunda imagem foi feita a mesclagem com o fundo na cor primário e as letras na cor light 🟧⬜<br>
-<br>⬛🟧 Na terceira imagem foi feita a mesclagem com o fundo na cor dark +1 e as letras na cor primário +1 ⬛🟧<br>
 
 ---
 
